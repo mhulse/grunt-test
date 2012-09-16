@@ -7,7 +7,7 @@
 
 module.exports = function(grunt) {
 	
-	var SRC = 'src'
+	var SRC = 'src',
 	STAGING = 'intermediate',
 	OUTPUT  = 'publish';
 	
